@@ -1,0 +1,59 @@
+# QR Code Scanner - Post Installation Guide
+### By Cabforge Systems
+
+## First-Time Setup
+
+### 1. Configure Scanner Location
+1. Launch QR Code Scanner from the desktop shortcut or start menu
+2. Click "Select Folder" button
+3. Navigate to your Mozaik Optimize folder containing OptState.dat
+4. Click OK to save the location
+
+### 2. Test Your Scanner
+1. Click the "Test Scanner" button
+2. Scan a QR code to verify proper operation
+3. The format should be: `CNC5|JobName|Material`
+4. Successful scans will show job information in the display
+
+### 3. Optional: Configure Auto-Start
+1. Right-click the QR Scanner icon in the system tray
+2. Check "Start with Windows" to enable automatic startup
+3. The application will start minimized on system startup
+
+## Using QR Code Scanner
+
+### Daily Operation
+1. The scanner runs silently in your system tray
+2. Scan any valid QR code to instantly load that job
+3. Mozaik Optimize will automatically launch with the scanned job
+4. The system tray icon will show notifications for successful scans
+
+### QR Code Format
+Your QR codes should follow this format:
+```
+CNC5|JobName|Material
+```
+Example:
+```
+CNC5|Smith Kitchen|18mm White Melamine
+```
+
+### Troubleshooting Scanner Issues
+If your scanner isn't working correctly:
+1. Ensure it's configured for US keyboard layout
+2. Check that there are no prefix/suffix characters added
+3. Test the scanner in a text editor to verify output
+4. Verify the QR code format matches the required pattern
+
+## Need Help?
+Cabforge Systems is here to support you:
+- Email: support@cabforge.com
+- Website: www.cabforge.com
+
+### Check Out Millwork Scanner for iOS
+Transform your field measurements with our professional 3D scanning app:
+- Available on the App Store
+- Perfect companion for cabinet manufacturers
+- Streamline your measurement process
+
+© 2024 Cabforge Systems. All rights reserved. 
