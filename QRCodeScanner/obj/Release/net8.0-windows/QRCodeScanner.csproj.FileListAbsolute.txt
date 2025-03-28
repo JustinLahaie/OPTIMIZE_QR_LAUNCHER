@@ -36,3 +36,4 @@ C:\SCAN APP\QRCodeScanner\obj\Release\net8.0-windows\refint\QRCodeScanner.dll
 C:\SCAN APP\QRCodeScanner\obj\Release\net8.0-windows\QRCodeScanner.pdb
 C:\SCAN APP\QRCodeScanner\obj\Release\net8.0-windows\QRCodeScanner.genruntimeconfig.cache
 C:\SCAN APP\QRCodeScanner\obj\Release\net8.0-windows\ref\QRCodeScanner.dll
+C:\SCAN APP\QRCodeScanner\obj\Release\net8.0-windows\QRCodeScanner.sourcelink.json
